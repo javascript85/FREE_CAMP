@@ -7,4 +7,4 @@ else {
 }
 
 
-console.log('ovo je mija prva app !!!')
+console.log('ovo je moja prva app !!!')
